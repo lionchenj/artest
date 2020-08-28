@@ -1,3 +1,5 @@
+https://services.gradle.org/distributions/
+# 4.9
 # Figment AR
 This repository contains the entire source code, built using ViroReact and React Native, for Viro Media's Figment AR App. Available on [Google Play](https://play.google.com/store/apps/details?id=com.viro.figment) and [App Store](https://itunes.apple.com/us/app/figment-ar/id1270018902?mt=8).
 
